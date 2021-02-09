@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "583149744364",
+    "project_id": "synkvideo",
+    "storage_bucket": "synkvideo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583149744364:android:82d7ce39f1dccb8a50b5c9",
+        "android_client_info": {
+          "package_name": "com.example.synkvideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583149744364-bscbr1dsur49bfa56jnep5d7g5qtdqqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_EvNq4XTQ3yvsx0YKcIk9ORuNOL5kyHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583149744364-bscbr1dsur49bfa56jnep5d7g5qtdqqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

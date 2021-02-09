@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SynkVideo</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="username_hint">username@gmail.com</string>
+    <string name="password_hint">********</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="full_name">Full Name</string>
+    <string name="create_pass">Create Password</string>
+</resources>
